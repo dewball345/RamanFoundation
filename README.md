@@ -1,0 +1,1 @@
+Reference code materials and resources from "*RamanFoundation: A Proposed Self-Supervised Foundation Model for Data-efficient Universal Spectroscopy Analysis*"
